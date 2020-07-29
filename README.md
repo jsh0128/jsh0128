@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?jsh0128=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jsh0128/jsh0128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
