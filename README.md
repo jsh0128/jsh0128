@@ -3,9 +3,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/iiveryi/)](https://www.instagram.com/iiveryi/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=hhttps://www.facebook.com/profile.php?id=100053585083287)](https://www.facebook.com/profile.php?id=100053585083287)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junghunsung01@gmail.com)](mailto:junghunsung01@gmail.com) 
-
 <br/>
-
 -------------------
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jsh0128&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
