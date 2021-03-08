@@ -9,7 +9,7 @@
 -------------------
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jsh0128&count_private=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsh0128&hide=html&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsh0128&hide=html&theme=radical&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🌱 I’m currently learning react(javascript, typescript)
