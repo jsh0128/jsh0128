@@ -5,6 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/iiveryi/)](https://www.instagram.com/iiveryi/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=hhttps://www.facebook.com/profile.php?id=100053585083287)](https://www.facebook.com/profile.php?id=100053585083287)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junghunsung01@gmail.com)](mailto:junghunsung01@gmail.com) 
+[![Notion](https://img.shields.io/badge/-Notion-lightgray?style=flat-square&logo=notion&link=https://www.notion.so/91260a0f1b3940abaffbda6db4318cdb)](https://www.notion.so/91260a0f1b3940abaffbda6db4318cdb)
 <br/>
 -------------------
 
