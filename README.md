@@ -28,6 +28,7 @@ Javascript, Typescript
  <li>Node.js, Express</li>
  <li>Typeorm</li>
  <li>Mysql</li>
+ <li>AWS</li>
 </ul>
 
 
