@@ -18,6 +18,7 @@ Javascript, Typescript
 ### Frontend 🌞
 <ul>
  <li>React</li>
+ <li>Next</li>
  <li>Mobx</li>
  <li>Redux, Redux-Saga</li>
  <li>Scss, Styled-components</li>
@@ -28,7 +29,7 @@ Javascript, Typescript
  <li>Node.js, Express</li>
  <li>Typeorm</li>
  <li>Mysql</li>
- <li>AWS</li>
+ <li>AWS, GCP</li>
 </ul>
 
 
